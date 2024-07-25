@@ -221,7 +221,7 @@ a.card-project:hover {
   font-size: 1.5rem;
   font-weight: 900;
   font-variation-settings: "wght" 900;
-  color: var(--blue5);
+  color: rgb(39, 39, 39);
 }
 
 .project-description {
